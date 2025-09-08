@@ -1,0 +1,248 @@
+{
+    "header": {
+        "films": "أفلام",
+        "serials": "مسلسلات",
+        "about": "عن الاستوديو",
+        "contacts": "اتصل بنا",
+        "select_language": "اختر اللغة"
+    },
+    "footer": {
+        "slogan": "نصنع أفلامًا تلهم الآخرين",
+        "films": {
+            "title": "أفلام",
+            "item_0": "في دور السينما",
+            "item_1": "قريبًا",
+            "item_2": "المجموعة",
+            "item_3": "الأرشيف"
+        },
+        "studio": {
+            "title": "الاستوديو",
+            "item_0": "عنّا",
+            "item_1": "التاريخ",
+            "item_2": "الفريق",
+            "item_3": "الوظائف"
+        },
+        "contacts": {
+            "title": "اتصل بنا",
+            "item_0": "جهات الاتصال",
+            "item_1": "دخول الموظفين",
+            "item_2": "الإعلان",
+            "item_3": "للشركاء"
+        },
+        "copyright": "جميع الحقوق محفوظة",
+        "polytic": "سياسة الخصوصية",
+        "conditions": "شروط الاستخدام"
+    },
+    "main": {
+        "blocks": {
+            "block-info": {
+                "title": "معلومات",
+                "description": "وصف ما..."
+            },
+            "block-video": {
+                "slogan": "والآن إلى الفيديو!",
+                "title": "عنوان ما",
+                "description": "وصف ما...",
+                "button": "اعرف المزيد"
+            },
+            "block-persone": {
+                "title": "الموظفون",
+                "names": {
+                    "employee-0": "سي فان",
+                    "employee-1": "شياو لي",
+                    "employee-2": "ماكسيم توبولينكو",
+                    "employee-3": "تي يانغفي"
+                },
+                "role": {
+                    "employee-0": "منتج",
+                    "employee-1": "مشرف الإضاءة",
+                    "employee-2": "محرر",
+                    "employee-3": "مشرف الصوت"
+                }
+            },
+            "block-studio": {
+                "title": "الاستوديو",
+                "under-block-info": {
+                    "item-0": {
+                        "title": "مكتبنا",
+                        "description": "وصف ما"
+                    },
+                    "item-1": {
+                        "title": "شاشة الكروما الخاصة بنا",
+                        "description": "وصف ما"
+                    },
+                    "item-2": {
+                        "title": "مقهانا",
+                        "description": "وصف ما"
+                    }
+                }
+            },
+            "block-equipment": {
+                "title": "المعدات",
+                "equipments": {
+                    "item-0": {
+                        "title": "Canon x200c",
+                        "description": "وصف ما"
+                    },
+                    "item-1": {
+                        "title": "Canon x200c",
+                        "description": "وصف ما"
+                    },
+                    "item-2": {
+                        "title": "Canon x200c",
+                        "description": "وصف ما"
+                    },
+                    "item-3": {
+                        "title": "Canon x200c",
+                        "description": "وصف ما"
+                    },
+                    "item-4": {
+                        "title": "Canon x200c",
+                        "description": "وصف ما"
+                    },
+                    "item-5": {
+                        "title": "Canon x200c",
+                        "description": "وصف ما"
+                    },
+                    "item-6": {
+                        "title": "Canon x200c",
+                        "description": "وصف ما"
+                    },
+                    "item-7": {
+                        "title": "Canon x200c",
+                        "description": "وصف ما"
+                    }
+                }
+            },
+            "block-form": {
+                "title": "إذا أعجبك",
+                "description": "وصف ما",
+                "form": {
+                    "title": "اتصل بنا",
+                    "button": "إرسال",
+                    "input": {
+                        "inp-0": {
+                            "lable": "اسمك",
+                            "placeholder": "كيف نناديك؟"
+                        },
+                        "inp-1": {
+                            "lable": "رقم الهاتف",
+                            "placeholder": "رقم الهاتف للتواصل"
+                        },
+                        "inp-2": {
+                            "lable": "البريد الإلكتروني",
+                            "placeholder": "البريد الإلكتروني للتواصل"
+                        }
+                    }
+                }
+            }
+        },
+        "headers": {
+            "header-films": {
+                "title": "أفلام",
+                "items": {
+                    "item-0": {
+                        "title": "بريكينغ باد",
+                        "description": "وصف ما"
+                    },
+                    "item-1": {
+                        "title": "بريكينغ باد",
+                        "description": "وصف ما"
+                    },
+                    "item-2": {
+                        "title": "بريكينغ باد",
+                        "description": "وصف ما"
+                    },
+                    "item-3": {
+                        "title": "بريكينغ باد",
+                        "description": "وصف ما"
+                    }
+                }
+            },
+            "header-serials": {
+                "title": "مسلسلات",
+                "items": {
+                    "item-0": {
+                        "title": "بريكينغ باد"
+                    },
+                    "item-1": {
+                        "title": "بريكينغ باد"
+                    },
+                    "item-2": {
+                        "title": "بريكينغ باد"
+                    },
+                    "item-3": {
+                        "title": "بريكينغ باد"
+                    }
+                }
+            },
+            "header-about": {
+                "title": "عن الاستوديو"
+            }
+        }
+    },
+    "workapp": {
+        "header-panel": {
+            "btn-0": "عودة",
+            "btn-1": "إضافة موظف",
+            "btn-2": "إضافة بانر",
+            "btn-3": "حذف",
+            "btn-4": "تسجيل الخروج",
+            "placeholder": "بريد الموظف الإلكتروني للحذف"
+        },
+        "main": {
+            "title": "التطبيق العملي",
+            "banners": {
+                "title": "التحديثات والأخبار",
+                "btns": "حذف"
+            },
+            "tickets": {
+                "title": "التذاكر",
+                "btns": "حذف"
+            }
+        }
+    },
+    "add-user": {
+        "title": "إضافة موظف",
+        "button-1": "إنشاء مستخدم",
+        "button-0": "عودة",
+        "form": {
+            "status": "حالة الموظف",
+            "input-0": {
+                "lable": "اسم الموظف الكامل",
+                "placeholder": "أدخل الاسم الكامل"
+            },
+            "input-1": {
+                "lable": "البريد الإلكتروني",
+                "placeholder": "أدخل البريد الإلكتروني"
+            },
+            "input-2": {
+                "lable": "إنشاء كلمة مرور",
+                "placeholder": "يجب أن تكون كلمة المرور أكثر من 8 أحرف"
+            },
+            "input-3": {
+                "lable": "تأكيد كلمة المرور",
+                "placeholder": "يجب أن تتطابق كلمة المرور"
+            }
+        }
+    },
+    "add-banner": {
+        "title": "إضافة بانر",
+        "button-1": "إنشاء بانر",
+        "button-0": "عودة",
+        "form": {
+            "input-0": {
+                "lable": "تحميل ملف",
+                "span": "الحجم الأقصى: 10 ميجابايت"
+            },
+            "input-1": {
+                "lable": "أدخل العنوان",
+                "span": "الحد الأقصى: 60 حرفًا"
+            },
+            "input-2": {
+                "lable": "أدخل الوصف",
+                "span": "الحد الأدنى: 50 حرفًا، الحد الأقصى: 450 حرفًا"
+            }
+        }
+    }
+}

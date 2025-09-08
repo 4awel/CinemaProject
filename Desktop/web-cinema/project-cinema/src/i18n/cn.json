@@ -1,0 +1,248 @@
+{
+    "header": {
+        "films": "电影",
+        "serials": "剧集",
+        "about": "关于工作室",
+        "contacts": "联系方式",
+        "select_language": "选择语言"
+    },
+    "footer": {
+        "slogan": "创作鼓舞人心的电影",
+        "films": {
+            "title": "电影",
+            "item_0": "影院上映",
+            "item_1": "即将上映",
+            "item_2": "收藏",
+            "item_3": "档案库"
+        },
+        "studio": {
+            "title": "工作室",
+            "item_0": "关于我们",
+            "item_1": "历史",
+            "item_2": "团队",
+            "item_3": "职业发展"
+        },
+        "contacts": {
+            "title": "联系方式",
+            "item_0": "联系方式",
+            "item_1": "员工登录",
+            "item_2": "广告合作",
+            "item_3": "合作伙伴"
+        },
+        "copyright": "版权所有",
+        "polytic": "隐私政策",
+        "conditions": "使用条款"
+    },
+    "main": {
+        "blocks": {
+            "block-info": {
+                "title": "一些信息",
+                "description": "一些描述..."
+            },
+            "block-video": {
+                "slogan": "现在来看视频！",
+                "title": "某个标题",
+                "description": "一些描述...",
+                "button": "了解更多"
+            },
+            "block-persone": {
+                "title": "员工",
+                "names": {
+                    "employee-0": "瑟凡",
+                    "employee-1": "小李",
+                    "employee-2": "马克西姆·托波连科",
+                    "employee-3": "提阳飞"
+                },
+                "role": {
+                    "employee-0": "制片人",
+                    "employee-1": "灯光指导",
+                    "employee-2": "剪辑师",
+                    "employee-3": "声音指导"
+                }
+            },
+            "block-studio": {
+                "title": "工作室",
+                "under-block-info": {
+                    "item-0": {
+                        "title": "我们的办公室",
+                        "description": "一些描述"
+                    },
+                    "item-1": {
+                        "title": "我们的绿幕",
+                        "description": "一些描述"
+                    },
+                    "item-2": {
+                        "title": "我们的咖啡馆",
+                        "description": "一些描述"
+                    }
+                }
+            },
+            "block-equipment": {
+                "title": "设备",
+                "equipments": {
+                    "item-0": {
+                        "title": "Canon x200c",
+                        "description": "一些描述"
+                    },
+                    "item-1": {
+                        "title": "Canon x200c",
+                        "description": "一些描述"
+                    },
+                    "item-2": {
+                        "title": "Canon x200c",
+                        "description": "一些描述"
+                    },
+                    "item-3": {
+                        "title": "Canon x200c",
+                        "description": "一些描述"
+                    },
+                    "item-4": {
+                        "title": "Canon x200c",
+                        "description": "一些描述"
+                    },
+                    "item-5": {
+                        "title": "Canon x200c",
+                        "description": "一些描述"
+                    },
+                    "item-6": {
+                        "title": "Canon x200c",
+                        "description": "一些描述"
+                    },
+                    "item-7": {
+                        "title": "Canon x200c",
+                        "description": "一些描述"
+                    }
+                }
+            },
+            "block-form": {
+                "title": "如果您喜欢",
+                "description": "一些描述",
+                "form": {
+                    "title": "联系我们",
+                    "button": "发送",
+                    "input": {
+                        "inp-0": {
+                            "lable": "您的姓名",
+                            "placeholder": "我们该如何称呼您？"
+                        },
+                        "inp-1": {
+                            "lable": "电话号码",
+                            "placeholder": "用于联系的电话号码"
+                        },
+                        "inp-2": {
+                            "lable": "电子邮件地址",
+                            "placeholder": "用于联系的邮箱"
+                        }
+                    }
+                }
+            }
+        },
+        "headers": {
+            "header-films": {
+                "title": "电影",
+                "items": {
+                    "item-0": {
+                        "title": "绝命毒师",
+                        "description": "一些描述"
+                    },
+                    "item-1": {
+                        "title": "绝命毒师",
+                        "description": "一些描述"
+                    },
+                    "item-2": {
+                        "title": "绝命毒师",
+                        "description": "一些描述"
+                    },
+                    "item-3": {
+                        "title": "绝命毒师",
+                        "description": "一些描述"
+                    }
+                }
+            },
+            "header-serials": {
+                "title": "剧集",
+                "items": {
+                    "item-0": {
+                        "title": "绝命毒师"
+                    },
+                    "item-1": {
+                        "title": "绝命毒师"
+                    },
+                    "item-2": {
+                        "title": "绝命毒师"
+                    },
+                    "item-3": {
+                        "title": "绝命毒师"
+                    }
+                }
+            },
+            "header-about": {
+                "title": "关于工作室"
+            }
+        }
+    },
+    "workapp": {
+        "header-panel": {
+            "btn-0": "返回",
+            "btn-1": "添加员工",
+            "btn-2": "添加横幅",
+            "btn-3": "删除",
+            "btn-4": "退出登录",
+            "placeholder": "要删除的员工邮箱"
+        },
+        "main": {
+            "title": "工作应用",
+            "banners": {
+                "title": "更新与新闻",
+                "btns": "删除"
+            },
+            "tickets": {
+                "title": "工单",
+                "btns": "删除"
+            }
+        }
+    },
+    "add-user": {
+        "title": "添加员工",
+        "button-1": "创建用户",
+        "button-0": "返回",
+        "form": {
+            "status": "员工状态",
+            "input-0": {
+                "lable": "员工的姓和名",
+                "placeholder": "输入姓和名"
+            },
+            "input-1": {
+                "lable": "电子邮箱",
+                "placeholder": "输入电子邮箱"
+            },
+            "input-2": {
+                "lable": "创建密码",
+                "placeholder": "密码必须多于8个字符"
+            },
+            "input-3": {
+                "lable": "重复密码",
+                "placeholder": "密码必须匹配"
+            }
+        }
+    },
+    "add-banner": {
+        "title": "添加横幅",
+        "button-1": "创建横幅",
+        "button-0": "返回",
+        "form": {
+            "input-0": {
+                "lable": "上传文件",
+                "span": "最大尺寸: 10MB"
+            },
+            "input-1": {
+                "lable": "输入标题",
+                "span": "最大: 60个字符"
+            },
+            "input-2": {
+                "lable": "输入描述",
+                "span": "最小: 50个字符, 最大: 450个字符"
+            }
+        }
+    }
+}

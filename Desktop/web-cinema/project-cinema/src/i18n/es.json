@@ -1,0 +1,248 @@
+{
+    "header": {
+        "films": "Películas",
+        "serials": "Series",
+        "about": "Sobre el estudio",
+        "contacts": "Contactos",
+        "select_language": "Seleccionar idioma"
+    },
+    "footer": {
+        "slogan": "Creamos cine que inspira",
+        "films": {
+            "title": "Películas",
+            "item_0": "En cines",
+            "item_1": "Próximamente",
+            "item_2": "Colección",
+            "item_3": "Archivo"
+        },
+        "studio": {
+            "title": "Estudio",
+            "item_0": "Sobre nosotros",
+            "item_1": "Historia",
+            "item_2": "Equipo",
+            "item_3": "Carreras"
+        },
+        "contacts": {
+            "title": "Contactos",
+            "item_0": "Contactos",
+            "item_1": "Acceso empleados",
+            "item_2": "Publicidad",
+            "item_3": "Para socios"
+        },
+        "copyright": "Todos los derechos reservados",
+        "polytic": "Política de privacidad",
+        "conditions": "Términos de uso"
+    },
+    "main": {
+        "blocks": {
+            "block-info": {
+                "title": "Información",
+                "description": "Descripción..."
+            },
+            "block-video": {
+                "slogan": "¡Y ahora el video!",
+                "title": "Título",
+                "description": "Descripción...",
+                "button": "Saber más"
+            },
+            "block-persone": {
+                "title": "Empleados",
+                "names": {
+                    "employee-0": "Se Fan",
+                    "employee-1": "Xiao Li",
+                    "employee-2": "Maxim Topolenko",
+                    "employee-3": "Ti Yangfei"
+                },
+                "role": {
+                    "employee-0": "Productor",
+                    "employee-1": "Director de iluminación",
+                    "employee-2": "Editor",
+                    "employee-3": "Director de sonido"
+                }
+            },
+            "block-studio": {
+                "title": "Estudio",
+                "under-block-info": {
+                    "item-0": {
+                        "title": "Nuestra oficina",
+                        "description": "Descripción"
+                    },
+                    "item-1": {
+                        "title": "Nuestro croma",
+                        "description": "Descripción"
+                    },
+                    "item-2": {
+                        "title": "Nuestra cafetería",
+                        "description": "Descripción"
+                    }
+                }
+            },
+            "block-equipment": {
+                "title": "Equipamiento",
+                "equipments": {
+                    "item-0": {
+                        "title": "Canon x200c",
+                        "description": "Descripción"
+                    },
+                    "item-1": {
+                        "title": "Canon x200c",
+                        "description": "Descripción"
+                    },
+                    "item-2": {
+                        "title": "Canon x200c",
+                        "description": "Descripción"
+                    },
+                    "item-3": {
+                        "title": "Canon x200c",
+                        "description": "Descripción"
+                    },
+                    "item-4": {
+                        "title": "Canon x200c",
+                        "description": "Descripción"
+                    },
+                    "item-5": {
+                        "title": "Canon x200c",
+                        "description": "Descripción"
+                    },
+                    "item-6": {
+                        "title": "Canon x200c",
+                        "description": "Descripción"
+                    },
+                    "item-7": {
+                        "title": "Canon x200c",
+                        "description": "Descripción"
+                    }
+                }
+            },
+            "block-form": {
+                "title": "Si te gustó",
+                "description": "Descripción",
+                "form": {
+                    "title": "Contactarnos",
+                    "button": "Enviar",
+                    "input": {
+                        "inp-0": {
+                            "lable": "Tu nombre",
+                            "placeholder": "¿Cómo debemos llamarte?"
+                        },
+                        "inp-1": {
+                            "lable": "Número de teléfono",
+                            "placeholder": "Teléfono para contactar"
+                        },
+                        "inp-2": {
+                            "lable": "Dirección de email",
+                            "placeholder": "Email para escribirte"
+                        }
+                    }
+                }
+            }
+        },
+        "headers": {
+            "header-films": {
+                "title": "Películas",
+                "items": {
+                    "item-0": {
+                        "title": "Breaking Bad",
+                        "description": "Descripción"
+                    },
+                    "item-1": {
+                        "title": "Breaking Bad",
+                        "description": "Descripción"
+                    },
+                    "item-2": {
+                        "title": "Breaking Bad",
+                        "description": "Descripción"
+                    },
+                    "item-3": {
+                        "title": "Breaking Bad",
+                        "description": "Descripción"
+                    }
+                }
+            },
+            "header-serials": {
+                "title": "Series",
+                "items": {
+                    "item-0": {
+                        "title": "Breaking Bad"
+                    },
+                    "item-1": {
+                        "title": "Breaking Bad"
+                    },
+                    "item-2": {
+                        "title": "Breaking Bad"
+                    },
+                    "item-3": {
+                        "title": "Breaking Bad"
+                    }
+                }
+            },
+            "header-about": {
+                "title": "Sobre el estudio"
+            }
+        }
+    },
+    "workapp": {
+        "header-panel": {
+            "btn-0": "Volver",
+            "btn-1": "Agregar empleado",
+            "btn-2": "Agregar banner",
+            "btn-3": "Eliminar",
+            "btn-4": "Salir",
+            "placeholder": "Email del empleado a eliminar"
+        },
+        "main": {
+            "title": "Aplicación de trabajo",
+            "banners": {
+                "title": "Actualizaciones y noticias",
+                "btns": "Eliminar"
+            },
+            "tickets": {
+                "title": "Tickets",
+                "btns": "Eliminar"
+            }
+        }
+    },
+    "add-user": {
+        "title": "Agregar empleado",
+        "button-1": "Crear usuario",
+        "button-0": "Atrás",
+        "form": {
+            "status": "Estado del empleado",
+            "input-0": {
+                "lable": "Apellido y nombre del empleado",
+                "placeholder": "Ingresa apellido y nombre"
+            },
+            "input-1": {
+                "lable": "Correo electrónico",
+                "placeholder": "Ingresa el correo electrónico"
+            },
+            "input-2": {
+                "lable": "Crear contraseña",
+                "placeholder": "La contraseña debe tener más de 8 caracteres"
+            },
+            "input-3": {
+                "lable": "Repetir contraseña",
+                "placeholder": "La contraseña debe coincidir"
+            }
+        }
+    },
+    "add-banner": {
+        "title": "Agregar banner",
+        "button-1": "Crear banner",
+        "button-0": "Atrás",
+        "form": {
+            "input-0": {
+                "lable": "Subir archivo",
+                "span": "Tamaño máximo: 10MB"
+            },
+            "input-1": {
+                "lable": "Ingresar título",
+                "span": "máx: 60"
+            },
+            "input-2": {
+                "lable": "Ingresar descripción",
+                "span": "mín: 50, máx: 450"
+            }
+        }
+    }
+}

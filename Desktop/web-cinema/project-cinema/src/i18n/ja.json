@@ -1,0 +1,248 @@
+{
+    "header": {
+        "films": "映画",
+        "serials": "シリーズ",
+        "about": "スタジオについて",
+        "contacts": "お問い合わせ",
+        "select_language": "言語を選択"
+    },
+    "footer": {
+        "slogan": "人をインスパイアする映画を創ります",
+        "films": {
+            "title": "映画",
+            "item_0": "劇場公開中",
+            "item_1": "近日公開",
+            "item_2": "コレクション",
+            "item_3": "アーカイブ"
+        },
+        "studio": {
+            "title": "スタジオ",
+            "item_0": "私たちについて",
+            "item_1": "歴史",
+            "item_2": "チーム",
+            "item_3": "キャリア"
+        },
+        "contacts": {
+            "title": "お問い合わせ",
+            "item_0": "連絡先",
+            "item_1": "スタッフログイン",
+            "item_2": "広告",
+            "item_3": "パートナーの方へ"
+        },
+        "copyright": "All rights reserved",
+        "polytic": "プライバシーポリシー",
+        "conditions": "利用規約"
+    },
+    "main": {
+        "blocks": {
+            "block-info": {
+                "title": "情報",
+                "description": "説明..."
+            },
+            "block-video": {
+                "slogan": "それでは動画をご覧ください！",
+                "title": "タイトル",
+                "description": "説明...",
+                "button": "詳しくは"
+            },
+            "block-persone": {
+                "title": "スタッフ",
+                "names": {
+                    "employee-0": "セ・ファン",
+                    "employee-1": "シャオ・リー",
+                    "employee-2": "マキシム・トポレンコ",
+                    "employee-3": "ティ・ヤンフェイ"
+                },
+                "role": {
+                    "employee-0": "プロデューサー",
+                    "employee-1": "照明監督",
+                    "employee-2": "編集者",
+                    "employee-3": "音響監督"
+                }
+            },
+            "block-studio": {
+                "title": "スタジオ",
+                "under-block-info": {
+                    "item-0": {
+                        "title": "私たちのオフィス",
+                        "description": "説明"
+                    },
+                    "item-1": {
+                        "title": "私たちのクロマキー",
+                        "description": "説明"
+                    },
+                    "item-2": {
+                        "title": "私たちのカフェ",
+                        "description": "説明"
+                    }
+                }
+            },
+            "block-equipment": {
+                "title": "機材",
+                "equipments": {
+                    "item-0": {
+                        "title": "Canon x200c",
+                        "description": "説明"
+                    },
+                    "item-1": {
+                        "title": "Canon x200c",
+                        "description": "説明"
+                    },
+                    "item-2": {
+                        "title": "Canon x200c",
+                        "description": "説明"
+                    },
+                    "item-3": {
+                        "title": "Canon x200c",
+                        "description": "説明"
+                    },
+                    "item-4": {
+                        "title": "Canon x200c",
+                        "description": "説明"
+                    },
+                    "item-5": {
+                        "title": "Canon x200c",
+                        "description": "説明"
+                    },
+                    "item-6": {
+                        "title": "Canon x200c",
+                        "description": "説明"
+                    },
+                    "item-7": {
+                        "title": "Canon x200c",
+                        "description": "説明"
+                    }
+                }
+            },
+            "block-form": {
+                "title": "気に入っていただけたら",
+                "description": "説明",
+                "form": {
+                    "title": "お問い合わせ",
+                    "button": "送信",
+                    "input": {
+                        "inp-0": {
+                            "lable": "お名前",
+                            "placeholder": "お名前をご記入ください"
+                        },
+                        "inp-1": {
+                            "lable": "電話番号",
+                            "placeholder": "連絡先の電話番号"
+                        },
+                        "inp-2": {
+                            "lable": "メールアドレス",
+                            "placeholder": "連絡先のメールアドレス"
+                        }
+                    }
+                }
+            }
+        },
+        "headers": {
+            "header-films": {
+                "title": "映画",
+                "items": {
+                    "item-0": {
+                        "title": "ブレイキング・バッド",
+                        "description": "説明"
+                    },
+                    "item-1": {
+                        "title": "ブレイキング・バッド",
+                        "description": "説明"
+                    },
+                    "item-2": {
+                        "title": "ブレイキング・バッド",
+                        "description": "説明"
+                    },
+                    "item-3": {
+                        "title": "ブレイキング・バッド",
+                        "description": "説明"
+                    }
+                }
+            },
+            "header-serials": {
+                "title": "シリーズ",
+                "items": {
+                    "item-0": {
+                        "title": "ブレイキング・バッド"
+                    },
+                    "item-1": {
+                        "title": "ブレイキング・バッド"
+                    },
+                    "item-2": {
+                        "title": "ブレイキング・バッド"
+                    },
+                    "item-3": {
+                        "title": "ブレイキング・バッド"
+                    }
+                }
+            },
+            "header-about": {
+                "title": "スタジオについて"
+            }
+        }
+    },
+    "workapp": {
+        "header-panel": {
+            "btn-0": "戻る",
+            "btn-1": "スタッフを追加",
+            "btn-2": "バナーを追加",
+            "btn-3": "削除",
+            "btn-4": "ログアウト",
+            "placeholder": "削除するスタッフのメール"
+        },
+        "main": {
+            "title": "ワークアプリ",
+            "banners": {
+                "title": "更新とニュース",
+                "btns": "削除"
+            },
+            "tickets": {
+                "title": "チケット",
+                "btns": "削除"
+            }
+        }
+    },
+    "add-user": {
+        "title": "スタッフを追加",
+        "button-1": "ユーザーを作成",
+        "button-0": "戻る",
+        "form": {
+            "status": "スタッフステータス",
+            "input-0": {
+                "lable": "スタッフの姓名",
+                "placeholder": "姓名を入力してください"
+            },
+            "input-1": {
+                "lable": "メールアドレス",
+                "placeholder": "メールアドレスを入力してください"
+            },
+            "input-2": {
+                "lable": "パスワードを作成",
+                "placeholder": "パスワードは8文字以上で入力してください"
+            },
+            "input-3": {
+                "lable": "パスワードを再入力",
+                "placeholder": "パスワードは一致している必要があります"
+            }
+        }
+    },
+    "add-banner": {
+        "title": "バナーを追加",
+        "button-1": "バナーを作成",
+        "button-0": "戻る",
+        "form": {
+            "input-0": {
+                "lable": "ファイルをアップロード",
+                "span": "最大サイズ: 10MB"
+            },
+            "input-1": {
+                "lable": "タイトルを入力",
+                "span": "最大: 60文字"
+            },
+            "input-2": {
+                "lable": "説明を入力",
+                "span": "最小: 50文字, 最大: 450文字"
+            }
+        }
+    }
+}

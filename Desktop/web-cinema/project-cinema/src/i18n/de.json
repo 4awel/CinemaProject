@@ -1,0 +1,248 @@
+{
+    "header": {
+        "films": "Filme",
+        "serials": "Serien",
+        "about": "Über das Studio",
+        "contacts": "Kontakte",
+        "select_language": "Sprache auswählen"
+    },
+    "footer": {
+        "slogan": "Wir schaffen Filme, die inspirieren",
+        "films": {
+            "title": "Filme",
+            "item_0": "Im Kino",
+            "item_1": "Demnächst",
+            "item_2": "Sammlung",
+            "item_3": "Archiv"
+        },
+        "studio": {
+            "title": "Studio",
+            "item_0": "Über uns",
+            "item_1": "Geschichte",
+            "item_2": "Team",
+            "item_3": "Karriere"
+        },
+        "contacts": {
+            "title": "Kontakte",
+            "item_0": "Kontakte",
+            "item_1": "Mitarbeiterlogin",
+            "item_2": "Werbung",
+            "item_3": "Für Partner"
+        },
+        "copyright": "Alle Rechte vorbehalten",
+        "polytic": "Datenschutzrichtlinie",
+        "conditions": "Nutzungsbedingungen"
+    },
+    "main": {
+        "blocks": {
+            "block-info": {
+                "title": "Informationen",
+                "description": "Beschreibung..."
+            },
+            "block-video": {
+                "slogan": "Und jetzt zum Video!",
+                "title": "Titel",
+                "description": "Beschreibung...",
+                "button": "Mehr erfahren"
+            },
+            "block-persone": {
+                "title": "Mitarbeiter",
+                "names": {
+                    "employee-0": "Se Fan",
+                    "employee-1": "Xiao Li",
+                    "employee-2": "Maxim Topolenko",
+                    "employee-3": "Ti Yangfei"
+                },
+                "role": {
+                    "employee-0": "Produzent",
+                    "employee-1": "Lichtregisseur",
+                    "employee-2": "Editor",
+                    "employee-3": "Tonregisseur"
+                }
+            },
+            "block-studio": {
+                "title": "Studio",
+                "under-block-info": {
+                    "item-0": {
+                        "title": "Unser Büro",
+                        "description": "Beschreibung"
+                    },
+                    "item-1": {
+                        "title": "Unser Greenscreen",
+                        "description": "Beschreibung"
+                    },
+                    "item-2": {
+                        "title": "Unser Café",
+                        "description": "Beschreibung"
+                    }
+                }
+            },
+            "block-equipment": {
+                "title": "Ausrüstung",
+                "equipments": {
+                    "item-0": {
+                        "title": "Canon x200c",
+                        "description": "Beschreibung"
+                    },
+                    "item-1": {
+                        "title": "Canon x200c",
+                        "description": "Beschreibung"
+                    },
+                    "item-2": {
+                        "title": "Canon x200c",
+                        "description": "Beschreibung"
+                    },
+                    "item-3": {
+                        "title": "Canon x200c",
+                        "description": "Beschreibung"
+                    },
+                    "item-4": {
+                        "title": "Canon x200c",
+                        "description": "Beschreibung"
+                    },
+                    "item-5": {
+                        "title": "Canon x200c",
+                        "description": "Beschreibung"
+                    },
+                    "item-6": {
+                        "title": "Canon x200c",
+                        "description": "Beschreibung"
+                    },
+                    "item-7": {
+                        "title": "Canon x200c",
+                        "description": "Beschreibung"
+                    }
+                }
+            },
+            "block-form": {
+                "title": "Wenn es Ihnen gefallen hat",
+                "description": "Beschreibung",
+                "form": {
+                    "title": "Kontaktieren Sie uns",
+                    "button": "Senden",
+                    "input": {
+                        "inp-0": {
+                            "lable": "Ihr Name",
+                            "placeholder": "Wie sollen wir Sie ansprechen?"
+                        },
+                        "inp-1": {
+                            "lable": "Telefonnummer",
+                            "placeholder": "Telefonnummer für die Kontaktaufnahme"
+                        },
+                        "inp-2": {
+                            "lable": "E-Mail-Adresse",
+                            "placeholder": "E-Mail, an die wir schreiben sollen"
+                        }
+                    }
+                }
+            }
+        },
+        "headers": {
+            "header-films": {
+                "title": "Filme",
+                "items": {
+                    "item-0": {
+                        "title": "Breaking Bad",
+                        "description": "Beschreibung"
+                    },
+                    "item-1": {
+                        "title": "Breaking Bad",
+                        "description": "Beschreibung"
+                    },
+                    "item-2": {
+                        "title": "Breaking Bad",
+                        "description": "Beschreibung"
+                    },
+                    "item-3": {
+                        "title": "Breaking Bad",
+                        "description": "Beschreibung"
+                    }
+                }
+            },
+            "header-serials": {
+                "title": "Serien",
+                "items": {
+                    "item-0": {
+                        "title": "Breaking Bad"
+                    },
+                    "item-1": {
+                        "title": "Breaking Bad"
+                    },
+                    "item-2": {
+                        "title": "Breaking Bad"
+                    },
+                    "item-3": {
+                        "title": "Breaking Bad"
+                    }
+                }
+            },
+            "header-about": {
+                "title": "Über das Studio"
+            }
+        }
+    },
+    "workapp": {
+        "header-panel": {
+            "btn-0": "Zurück",
+            "btn-1": "Mitarbeiter hinzufügen",
+            "btn-2": "Banner hinzufügen",
+            "btn-3": "Löschen",
+            "btn-4": "Abmelden",
+            "placeholder": "E-Mail des zu löschenden Mitarbeiters"
+        },
+        "main": {
+            "title": "Arbeitsanwendung",
+            "banners": {
+                "title": "Updates und Neuigkeiten",
+                "btns": "Löschen"
+            },
+            "tickets": {
+                "title": "Tickets",
+                "btns": "Löschen"
+            }
+        }
+    },
+    "add-user": {
+        "title": "Mitarbeiter hinzufügen",
+        "button-1": "Benutzer erstellen",
+        "button-0": "Zurück",
+        "form": {
+            "status": "Mitarbeiterstatus",
+            "input-0": {
+                "lable": "Nachname und Vorname des Mitarbeiters",
+                "placeholder": "Nachname und Vorname eingeben"
+            },
+            "input-1": {
+                "lable": "E-Mail",
+                "placeholder": "E-Mail-Adresse eingeben"
+            },
+            "input-2": {
+                "lable": "Passwort erstellen",
+                "placeholder": "Passwort muss mehr als 8 Zeichen lang sein"
+            },
+            "input-3": {
+                "lable": "Passwort wiederholen",
+                "placeholder": "Passwort muss unbedingt übereinstimmen"
+            }
+        }
+    },
+    "add-banner": {
+        "title": "Banner hinzufügen",
+        "button-1": "Banner erstellen",
+        "button-0": "Zurück",
+        "form": {
+            "input-0": {
+                "lable": "Datei hochladen",
+                "span": "Max. Größe: 10 MB"
+            },
+            "input-1": {
+                "lable": "Titel eingeben",
+                "span": "max: 60"
+            },
+            "input-2": {
+                "lable": "Beschreibung eingeben",
+                "span": "min: 50, max: 450"
+            }
+        }
+    }
+}

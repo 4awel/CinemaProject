@@ -1,0 +1,248 @@
+{
+    "header": {
+        "films": "Фільми",
+        "serials": "Серіали",
+        "about": "Про студію",
+        "contacts": "Контакти",
+        "select_language": "Оберіть мову"
+    },
+    "footer": {
+        "slogan": "Створюємо кіно, яке надихає",
+        "films": {
+            "title": "Фільми",
+            "item_0": "У кінотеатрах",
+            "item_1": "Скоро вийдуть",
+            "item_2": "Колекція",
+            "item_3": "Архів"
+        },
+        "studio": {
+            "title": "Студія",
+            "item_0": "Про нас",
+            "item_1": "Історія",
+            "item_2": "Команда",
+            "item_3": "Кар'єра"
+        },
+        "contacts": {
+            "title": "Контакти",
+            "item_0": "Контакти",
+            "item_1": "Вхід для співробітників",
+            "item_2": "Реклама",
+            "item_3": "Партнерам"
+        },
+        "copyright": "Всі права захищені",
+        "polytic": "Політика конфіденційності",
+        "conditions": "Умови використання"
+    },
+    "main": {
+        "blocks": {
+            "block-info": {
+                "title": "Якась інформація",
+                "description": "Якийсь опис..."
+            },
+            "block-video": {
+                "slogan": "А тепер до відео!",
+                "title": "Якийсь заголовок",
+                "description": "Якийсь опис...",
+                "button": "Дізнатися"
+            },
+            "block-persone": {
+                "title": "Співробітники",
+                "names": {
+                    "employee-0": "Се Фан",
+                    "employee-1": "Сяо Лі",
+                    "employee-2": "Максим Тополенко",
+                    "employee-3": "Ті Янфей"
+                },
+                "role": {
+                    "employee-0": "Продюсер",
+                    "employee-1": "Світлорежисер",
+                    "employee-2": "Монтажер",
+                    "employee-3": "Звукорежисер"
+                }
+            },
+            "block-studio": {
+                "title": "Студія",
+                "under-block-info": {
+                    "item-0": {
+                        "title": "Наш офіс",
+                        "description": "Якийсь опис"
+                    },
+                    "item-1": {
+                        "title": "Наш хромакей",
+                        "description": "Якийсь опис"
+                    },
+                    "item-2": {
+                        "title": "Наша кав'ярня",
+                        "description": "Якийсь опис"
+                    }
+                }
+            },
+            "block-equipment": {
+                "title": "Обладнання",
+                "equipments": {
+                    "item-0": {
+                        "title": "Canon x200c",
+                        "description": "Якийсь опис"
+                    },
+                    "item-1": {
+                        "title": "Canon x200c",
+                        "description": "Якийсь опис"
+                    },
+                    "item-2": {
+                        "title": "Canon x200c",
+                        "description": "Якийсь опис"
+                    },
+                    "item-3": {
+                        "title": "Canon x200c",
+                        "description": "Якийсь опис"
+                    },
+                    "item-4": {
+                        "title": "Canon x200c",
+                        "description": "Якийсь опис"
+                    },
+                    "item-5": {
+                        "title": "Canon x200c",
+                        "description": "Якийсь опис"
+                    },
+                    "item-6": {
+                        "title": "Canon x200c",
+                        "description": "Якийсь опис"
+                    },
+                    "item-7": {
+                        "title": "Canon x200c",
+                        "description": "Якийсь опис"
+                    }
+                }
+            },
+            "block-form": {
+                "title": "Якщо вам сподобалось",
+                "description": "Якийсь опис",
+                "form": {
+                    "title": "Зв'язатися з нами",
+                    "button": "Надіслати",
+                    "input": {
+                        "inp-0": {
+                            "lable": "Ваше ім'я",
+                            "placeholder": "Як нам до вас звертатися?"
+                        },
+                        "inp-1": {
+                            "lable": "Номер телефону",
+                            "placeholder": "Номер телефону для зв'язку"
+                        },
+                        "inp-2": {
+                            "lable": "Email адреса",
+                            "placeholder": "Пошта, куди вам написати"
+                        }
+                    }
+                }
+            }
+        },
+        "headers": {
+            "header-films": {
+                "title": "Фільми",
+                "items": {
+                    "item-0": {
+                        "title": "Пуститися берези",
+                        "description": "Якийсь опис"
+                    },
+                    "item-1": {
+                        "title": "Пуститися берези",
+                        "description": "Якийсь опис"
+                    },
+                    "item-2": {
+                        "title": "Пуститися берези",
+                        "description": "Якийсь опис"
+                    },
+                    "item-3": {
+                        "title": "Пуститися берези",
+                        "description": "Якийсь опис"
+                    }
+                }
+            },
+            "header-serials": {
+                "title": "Серіали",
+                "items": {
+                    "item-0": {
+                        "title": "Пуститися берези"
+                    },
+                    "item-1": {
+                        "title": "Пуститися берези"
+                    },
+                    "item-2": {
+                        "title": "Пуститися берези"
+                    },
+                    "item-3": {
+                        "title": "Пуститися берези"
+                    }
+                }
+            },
+            "header-about": {
+                "title": "Про студію"
+            }
+        }
+    },
+    "workapp": {
+        "header-panel": {
+            "btn-0": "Повернутися",
+            "btn-1": "Додати співробітника",
+            "btn-2": "Додати банер",
+            "btn-3": "Видалити",
+            "btn-4": "Вийти",
+            "placeholder": "Пошта співробітника для видалення"
+        },
+        "main": {
+            "title": "Робочий додаток",
+            "banners": {
+                "title": "Оновлення та новини",
+                "btns": "Видалити"
+            },
+            "tickets": {
+                "title": "Тікети",
+                "btns": "Видалити"
+            }
+        }
+    },
+    "add-user": {
+        "title": "Додати співробітника",
+        "button-1": "Створити користувача",
+        "button-0": "Назад",
+        "form": {
+            "status": "Статус співробітника",
+            "input-0": {
+                "lable": "Прізвище та ім'я співробітника",
+                "placeholder": "Введіть прізвище та ім'я"
+            },
+            "input-1": {
+                "lable": "Електронна пошта",
+                "placeholder": "Введіть електронну пошту"
+            },
+            "input-2": {
+                "lable": "Придумайте пароль",
+                "placeholder": "Пароль має бути більше 8 символів"
+            },
+            "input-3": {
+                "lable": "Повторіть пароль",
+                "placeholder": "Пароль має співпадати обов'язково"
+            }
+        }
+    },
+    "add-banner": {
+        "title": "Додати банер",
+        "button-1": "Створити банер",
+        "button-0": "Назад",
+        "form": {
+            "input-0": {
+                "lable": "Завантажити файл",
+                "span": "Макс розмір: 10МБ"
+            },
+            "input-1": {
+                "lable": "Введіть назву",
+                "span": "макс: 60"
+            },
+            "input-2": {
+                "lable": "Введіть опис",
+                "span": "мін: 50, макс: 450"
+            }
+        }
+    }
+}

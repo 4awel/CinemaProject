@@ -1,0 +1,248 @@
+{
+    "header": {
+        "films": "Filmy",
+        "serials": "Seriale",
+        "about": "O studiu",
+        "contacts": "Kontakty",
+        "select_language": "Wybierz język"
+    },
+    "footer": {
+        "slogan": "Tworzymy kino, które inspiruje",
+        "films": {
+            "title": "Filmy",
+            "item_0": "W kinach",
+            "item_1": "Wkrótce",
+            "item_2": "Kolekcja",
+            "item_3": "Archiwum"
+        },
+        "studio": {
+            "title": "Studio",
+            "item_0": "O nas",
+            "item_1": "Historia",
+            "item_2": "Zespół",
+            "item_3": "Kariera"
+        },
+        "contacts": {
+            "title": "Kontakty",
+            "item_0": "Kontakty",
+            "item_1": "Logowanie dla pracowników",
+            "item_2": "Reklama",
+            "item_3": "Dla partnerów"
+        },
+        "copyright": "Wszelkie prawa zastrzeżone",
+        "polytic": "Polityka prywatności",
+        "conditions": "Warunki korzystania"
+    },
+    "main": {
+        "blocks": {
+            "block-info": {
+                "title": "Informacje",
+                "description": "Opis..."
+            },
+            "block-video": {
+                "slogan": "A teraz do wideo!",
+                "title": "Tytuł",
+                "description": "Opis...",
+                "button": "Dowiedz się"
+            },
+            "block-persone": {
+                "title": "Pracownicy",
+                "names": {
+                    "employee-0": "Se Fan",
+                    "employee-1": "Xiao Li",
+                    "employee-2": "Maksim Topolenko",
+                    "employee-3": "Ti Yangfei"
+                },
+                "role": {
+                    "employee-0": "Producent",
+                    "employee-1": "Reżyser światła",
+                    "employee-2": "Montażysta",
+                    "employee-3": "Reżyser dźwięku"
+                }
+            },
+            "block-studio": {
+                "title": "Studio",
+                "under-block-info": {
+                    "item-0": {
+                        "title": "Nasze biuro",
+                        "description": "Opis"
+                    },
+                    "item-1": {
+                        "title": "Nasze green screen",
+                        "description": "Opis"
+                    },
+                    "item-2": {
+                        "title": "Nasza kawiarnia",
+                        "description": "Opis"
+                    }
+                }
+            },
+            "block-equipment": {
+                "title": "Sprzęt",
+                "equipments": {
+                    "item-0": {
+                        "title": "Canon x200c",
+                        "description": "Opis"
+                    },
+                    "item-1": {
+                        "title": "Canon x200c",
+                        "description": "Opis"
+                    },
+                    "item-2": {
+                        "title": "Canon x200c",
+                        "description": "Opis"
+                    },
+                    "item-3": {
+                        "title": "Canon x200c",
+                        "description": "Opis"
+                    },
+                    "item-4": {
+                        "title": "Canon x200c",
+                        "description": "Opis"
+                    },
+                    "item-5": {
+                        "title": "Canon x200c",
+                        "description": "Opis"
+                    },
+                    "item-6": {
+                        "title": "Canon x200c",
+                        "description": "Opis"
+                    },
+                    "item-7": {
+                        "title": "Canon x200c",
+                        "description": "Opis"
+                    }
+                }
+            },
+            "block-form": {
+                "title": "Jeśli Ci się spodobało",
+                "description": "Opis",
+                "form": {
+                    "title": "Skontaktuj się z nami",
+                    "button": "Wyślij",
+                    "input": {
+                        "inp-0": {
+                            "lable": "Twoje imię",
+                            "placeholder": "Jak mamy się do Ciebie zwracać?"
+                        },
+                        "inp-1": {
+                            "lable": "Numer telefonu",
+                            "placeholder": "Numer telefonu do kontaktu"
+                        },
+                        "inp-2": {
+                            "lable": "Adres email",
+                            "placeholder": "Email, na który mamy napisać"
+                        }
+                    }
+                }
+            }
+        },
+        "headers": {
+            "header-films": {
+                "title": "Filmy",
+                "items": {
+                    "item-0": {
+                        "title": "Breaking Bad",
+                        "description": "Opis"
+                    },
+                    "item-1": {
+                        "title": "Breaking Bad",
+                        "description": "Opis"
+                    },
+                    "item-2": {
+                        "title": "Breaking Bad",
+                        "description": "Opis"
+                    },
+                    "item-3": {
+                        "title": "Breaking Bad",
+                        "description": "Opis"
+                    }
+                }
+            },
+            "header-serials": {
+                "title": "Seriale",
+                "items": {
+                    "item-0": {
+                        "title": "Breaking Bad"
+                    },
+                    "item-1": {
+                        "title": "Breaking Bad"
+                    },
+                    "item-2": {
+                        "title": "Breaking Bad"
+                    },
+                    "item-3": {
+                        "title": "Breaking Bad"
+                    }
+                }
+            },
+            "header-about": {
+                "title": "O studiu"
+            }
+        }
+    },
+    "workapp": {
+        "header-panel": {
+            "btn-0": "Wróć",
+            "btn-1": "Dodaj pracownika",
+            "btn-2": "Dodaj baner",
+            "btn-3": "Usuń",
+            "btn-4": "Wyloguj",
+            "placeholder": "Email pracownika do usunięcia"
+        },
+        "main": {
+            "title": "Aplikacja robocza",
+            "banners": {
+                "title": "Aktualizacje i newsy",
+                "btns": "Usuń"
+            },
+            "tickets": {
+                "title": "Zgłoszenia",
+                "btns": "Usuń"
+            }
+        }
+    },
+    "add-user": {
+        "title": "Dodaj pracownika",
+        "button-1": "Utwórz użytkownika",
+        "button-0": "Wstecz",
+        "form": {
+            "status": "Status pracownika",
+            "input-0": {
+                "lable": "Nazwisko i imię pracownika",
+                "placeholder": "Wprowadź nazwisko i imię"
+            },
+            "input-1": {
+                "lable": "Email",
+                "placeholder": "Wprowadź adres email"
+            },
+            "input-2": {
+                "lable": "Wymyśl hasło",
+                "placeholder": "Hasło musi mieć więcej niż 8 znaków"
+            },
+            "input-3": {
+                "lable": "Powtórz hasło",
+                "placeholder": "Hasła muszą się koniecznie zgadzać"
+            }
+        }
+    },
+    "add-banner": {
+        "title": "Dodaj baner",
+        "button-1": "Utwórz baner",
+        "button-0": "Wstecz",
+        "form": {
+            "input-0": {
+                "lable": "Załaduj plik",
+                "span": "Maks. rozmiar: 10MB"
+            },
+            "input-1": {
+                "lable": "Wprowadź nazwę",
+                "span": "maks: 60"
+            },
+            "input-2": {
+                "lable": "Wprowadź opis",
+                "span": "min: 50, maks: 450"
+            }
+        }
+    }
+}
